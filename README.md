@@ -32,7 +32,7 @@ for i in range(1,10):
 
 Aby sprawdzić ścieżkę do pliku wpisz: `pwd`.
 
-![Puchacz albo puszczyk](/home/LABK/kholowaty/markdown/puszczyk.jpg)
+![Puchacz albo puszczyk](https://www.werandacountry.pl/data/articles/sowa-01.jpg)
 
 
 
